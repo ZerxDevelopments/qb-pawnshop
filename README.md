@@ -1,4 +1,3 @@
-# NoPixel 4.0 Inspired
 # 🏪 QB-Pawnshop update
 
 # Nopixel 4.0 inspired  
@@ -41,5 +40,6 @@ https://www.youtube.com/watch?v=1unC9j_ooRk
 - if your not using `karma_inventory` then you will need too update the exports in server.lua 
 
 - You can change the location of the interact in the client.lua at line 178
+
 
 
