@@ -1,4 +1,4 @@
-# 🏪 QB-Pawnshop update
+# 🏪 QB-Pawnshop update NoPixel 4.0 Inspired
 
 # Nopixel 4.0 inspired  
 A simple and clean Pawn Shop script for QBCore servers, allowing players to sell configured items for cash or bank deposits. This version has been stripped of any melting features for a streamlined roleplay and economic experience.
@@ -40,3 +40,4 @@ https://www.youtube.com/watch?v=1unC9j_ooRk
 - if your not using `karma_inventory` then you will need too update the exports in server.lua 
 
 - You can change the location of the interact in the client.lua at line 178
+
